@@ -1,4 +1,4 @@
-part of excel;
+part of excel_2;
 
 // For Spanning the columns and rows
 // ignore: must_be_immutable

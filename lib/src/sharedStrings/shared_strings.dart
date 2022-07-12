@@ -1,4 +1,4 @@
-part of excel;
+part of excel_2;
 
 class _SharedStringsMaintainer {
   static final instance = _SharedStringsMaintainer._();

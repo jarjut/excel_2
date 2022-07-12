@@ -1,4 +1,4 @@
-part of excel;
+part of excel_2;
 
 enum FontFamily {
   Al_Bayan_Plain,

@@ -5,6 +5,10 @@ All notable changes to this project will be documented in this file.
 - Formulas
 - Conversion to PDF
 
+## [2.0.0+4] - 2022-07-12
+### Improved
+- Upgrade xml
+
 ## [2.0.0-null-safety-4] - 2022-02-15
 ### Improved
 - Fix saving XLXS bug on archive 3.2.0

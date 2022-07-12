@@ -1,4 +1,4 @@
-# Excel
+# Excel_2
   
   <a href="https://flutter.io">  
     <img src="https://img.shields.io/badge/Platform-Flutter-yellow.svg"  
@@ -30,6 +30,8 @@
   </a>
   <br>
   <br>
+
+## !! This is forked library from the original package [Excel](https://www.pub.dev/packages/excel) !!
 
 ### [Excel](https://www.pub.dev/packages/excel) is a flutter and dart library for reading, creating and updating excel-sheets for XLSX files.
 
