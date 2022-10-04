@@ -4,29 +4,13 @@
     <img src="https://img.shields.io/badge/Platform-Flutter-yellow.svg"  
       alt="Platform" />  
   </a> 
-  <a href="https://github.com/justkawal/excel">  
-    <img src="https://github.com/justkawal/excel/workflows/Test/badge.svg"  
-      alt="Test" />  
-  </a> 
    <a href="https://pub.dartlang.org/packages/excel">  
-    <img src="https://img.shields.io/pub/v/excel.svg"  
+    <img src="https://img.shields.io/pub/v/excel_2"  
       alt="Pub Package" />  
   </a>
    <a href="https://opensource.org/licenses/MIT">  
     <img src="https://img.shields.io/badge/License-MIT-red.svg"  
       alt="License: MIT" />  
-  </a>
-   <a href="https://github.com/justkawal/excel/issues">  
-    <img src="https://img.shields.io/github/issues/justkawal/excel"  
-      alt="Issue" />  
-  </a> 
-   <a href="https://github.com/justkawal/excel/network">  
-    <img src="https://img.shields.io/github/forks/justkawal/excel"  
-      alt="Forks" />  
-  </a> 
-   <a href="https://github.com/justkawal/excel/stargazers">  
-    <img src="https://img.shields.io/github/stars/justkawal/excel"  
-      alt="Stars" />  
   </a>
   <br>
   <br>
